@@ -1,0 +1,14 @@
+/* NavBar.css */
+.custom-navbar {
+    padding: 0.5rem 1rem; /* Adjust padding */
+  }
+  
+  .custom-navbar .nav-link {
+    font-size: 0.875rem; /* Adjust font size */
+    padding: 0.5rem 0.75rem; /* Adjust link padding */
+  }
+  
+  .custom-navbar .navbar-toggler {
+    padding: 0.25rem 0.75rem; /* Adjust toggle button padding */
+  }
+  
